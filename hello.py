@@ -14,4 +14,4 @@ if current_language == 'pt_BR':  # condição SE
     msg = 'olá mundo'
 elif current_language == 'it_IT':  # condição SE NÃO SER
     msg = 'ciano, Mondo!'
-print(msg)
+print(msg) #teste do venv
